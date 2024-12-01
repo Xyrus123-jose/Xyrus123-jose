@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGluYjRjcWg1eXNqaTNmM29paW8xam9hZTRvbjVlejVzYzI5bGlqMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/10h1BGkwYiIydi/giphy.webp" alt="Master" width="100%" height="400px" />
+  <img src="https://getwallpapers.com/wallpaper/full/5/7/5/90179.jpg" alt="Master" width="100%" height="400px" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Xyrus Jose</h1>
