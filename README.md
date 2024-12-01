@@ -12,8 +12,8 @@
 ---
 
 - 🌱 **Currently exploring:** A wide array of **programming languages and frameworks**, aiming to deepen my expertise and versatility in the field.  
-- 💻 **Academic background:** Enrolled at **Quezon City University**, specializing in IT and technological innovations.  
-- 📫 **Reach out to me:** Feel free to drop an email at **xyrusjose123@gmail.com** for collaborations or queries.  
+- 💻 **Academic background:** Enrolled at **Quezon City University**.  
+- 📫 **Reach out to me:** Feel free to drop an email at **xyrusjose123@gmail.com**.  
 - ⚡ **Fun fact:** Beyond coding, I have a great passion for **basketball**—it keeps me energized and inspired!  
 
 ---
@@ -23,9 +23,7 @@
   <a href="https://facebook.com/x" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" />
   </a>
-  <a href="https://linkedin.com/in/your-linkedin" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="30" width="40" />
-  </a>
+
 </p>
 
 ---
@@ -46,22 +44,15 @@
   </a> 
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40" />
-  </a> 
-  <a href="https://www.java.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40" />
-  </a> 
+  </a> -
   <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer">
     <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="Microsoft SQL Server" width="40" height="40" />
   </a> 
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40" />
   </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" />
-  </a>
-  <a href="https://react.dev/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React.js" width="40" height="40" />
-  </a>
+
+ 
 </p>
 
 ---
