@@ -1,5 +1,4 @@
 <p align="center">
-  <img src="https://getwallpapers.com/wallpaper/full/5/7/5/90179.jpg" alt="Master" width="100%" height="400px" />
 </p>
 
 <h1 align="center">Hello, I'm Xyrus Jose 👋</h1>
